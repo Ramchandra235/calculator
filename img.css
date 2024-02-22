@@ -1,0 +1,23 @@
+ table{
+    background-color:#070F2B;
+}
+body{
+    background-color: #9290C3;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#result{
+    border-radius: 8px;
+    border-color:# 1B1A55;
+    
+}
+button:hover{
+    background-color: #535C91;
+}
+button{
+    background-color:#9290C3;
+}
+h2{
+    background-color: #1B1A55; 
+    color: aliceblue;
+}
